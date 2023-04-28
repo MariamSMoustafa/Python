@@ -80,16 +80,17 @@
 
 ############################10#################################
 
-string = input('Enter The String:')
+# string = input('Enter The String:')
 
-num_digits = 0
-num_letters = 0
+# num_digits = 0
+# num_letters = 0
 
-for char in string:
-    if char.isdigit():
-        num_digits += 1
-    elif char.isalpha():
-        num_letters += 1
+# for char in string:
+#     if char.isdigit():
+#         num_digits += 1
+#     elif char.isalpha():
+#         num_letters += 1
 
-print("Number of digits:", num_digits)
-print("Number of letters:", num_letters)
+# print("Number of digits:", num_digits)
+# print("Number of letters:", num_letters)
+
